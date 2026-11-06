@@ -1,0 +1,14 @@
+/Users/maziomo/Documents/ChatGPT/Programowanie 3 C#/MiniLab05-RaportSklepu/src/RaportSklepu/bin/Debug/net10.0/RaportSklepu
+/Users/maziomo/Documents/ChatGPT/Programowanie 3 C#/MiniLab05-RaportSklepu/src/RaportSklepu/bin/Debug/net10.0/RaportSklepu.deps.json
+/Users/maziomo/Documents/ChatGPT/Programowanie 3 C#/MiniLab05-RaportSklepu/src/RaportSklepu/bin/Debug/net10.0/RaportSklepu.runtimeconfig.json
+/Users/maziomo/Documents/ChatGPT/Programowanie 3 C#/MiniLab05-RaportSklepu/src/RaportSklepu/bin/Debug/net10.0/RaportSklepu.dll
+/Users/maziomo/Documents/ChatGPT/Programowanie 3 C#/MiniLab05-RaportSklepu/src/RaportSklepu/bin/Debug/net10.0/RaportSklepu.pdb
+/Users/maziomo/Documents/ChatGPT/Programowanie 3 C#/MiniLab05-RaportSklepu/src/RaportSklepu/obj/Debug/net10.0/RaportSklepu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maziomo/Documents/ChatGPT/Programowanie 3 C#/MiniLab05-RaportSklepu/src/RaportSklepu/obj/Debug/net10.0/RaportSklepu.AssemblyInfoInputs.cache
+/Users/maziomo/Documents/ChatGPT/Programowanie 3 C#/MiniLab05-RaportSklepu/src/RaportSklepu/obj/Debug/net10.0/RaportSklepu.AssemblyInfo.cs
+/Users/maziomo/Documents/ChatGPT/Programowanie 3 C#/MiniLab05-RaportSklepu/src/RaportSklepu/obj/Debug/net10.0/RaportSklepu.csproj.CoreCompileInputs.cache
+/Users/maziomo/Documents/ChatGPT/Programowanie 3 C#/MiniLab05-RaportSklepu/src/RaportSklepu/obj/Debug/net10.0/RaportSklepu.dll
+/Users/maziomo/Documents/ChatGPT/Programowanie 3 C#/MiniLab05-RaportSklepu/src/RaportSklepu/obj/Debug/net10.0/refint/RaportSklepu.dll
+/Users/maziomo/Documents/ChatGPT/Programowanie 3 C#/MiniLab05-RaportSklepu/src/RaportSklepu/obj/Debug/net10.0/RaportSklepu.pdb
+/Users/maziomo/Documents/ChatGPT/Programowanie 3 C#/MiniLab05-RaportSklepu/src/RaportSklepu/obj/Debug/net10.0/RaportSklepu.genruntimeconfig.cache
+/Users/maziomo/Documents/ChatGPT/Programowanie 3 C#/MiniLab05-RaportSklepu/src/RaportSklepu/obj/Debug/net10.0/ref/RaportSklepu.dll
